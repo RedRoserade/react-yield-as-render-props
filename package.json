@@ -1,0 +1,19 @@
+{
+  "name": "using-yield-for-components-with-render-props",
+  "version": "1.0.0",
+  "description": "Saw the idea on Twitter, so decided to try to implement it without looking at any code. This is the result. Pretty powerful if you ask me.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
